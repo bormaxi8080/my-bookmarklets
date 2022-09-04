@@ -1,0 +1,1 @@
+javascript:(function(){ document.location.href='http://www.linkedin.com/pymk/pcard?mid='+escape(window.location.search.split('=')[1].split('&')[0]) })();
