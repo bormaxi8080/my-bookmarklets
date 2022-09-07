@@ -38,13 +38,13 @@ Export Instagram Followers/Following List to Excel.
 
 Export IG followers & followings in CSV Excel formats within a few clicks.
 
-[JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/gpmodmeblccallcadopbcoeoejepgpnb)
-
-Formats JSON automatically! Open Source, Available with Dark and Light mode, Syntax Highlighting, and automatically linkifies links.
-
 [LinkedIn Profile to JSON Resume Exporter](https://joshuatz.com/projects/web-stuff/linkedin-profile-to-json-resume-exporter/)
 
 This is a project that I initially quickly threw together, mostly out of frustration that it didn’t already exist. As I outline in the “readme” file in my Github repo for this project, I wanted to export my LinkedIn profile to JSON Resume, which is an exciting standard for storing, sharing, parsing, and generating resumes based on a shared underlying data structure, or schema.
+
+[Instant Data Scraper](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)
+
+Instant Data Scraper extracts data from web pages and exports it as Excel or CSV files
 
 [Listly - Free Data Scraper, Extractor](https://chrome.google.com/webstore/detail/listly-free-data-scraper/ihljmnfgkkmoikgkdkjejbkpdpbmcgeh)
 
@@ -58,6 +58,10 @@ The most powerful screen recorder for Chrome. Capture, annotate, edit and more.
 [Smart Websocket Client](https://chrome.google.com/webstore/detail/smart-websocket-client/omalebghpgejjiaoknljcfmglgbpocdp)
 
 Smart WebSocket Client is an extension for Google Chrome to help test your Web Socket services.
+
+[JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/gpmodmeblccallcadopbcoeoejepgpnb)
+
+Formats JSON automatically! Open Source, Available with Dark and Light mode, Syntax Highlighting, and automatically linkifies links.
 
 [Web Archives](https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao)
 
