@@ -8,6 +8,10 @@ Browser bookmarklets and extensions that I use for search, save people profiles 
 
 ## Chrome/FireFox Browser extensions:
 
+[ClearURLs](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk)
+
+This extension will automatically remove tracking elements from URLs to help protect your privacy when browse through the Internet.
+
 [ContactOut](https://chrome.google.com/webstore/detail/find-anyones-email-contac/jjdemeiffadmmjhkbbpglgnlgeafomjo?hl=en)
 
 ContactOut has more than one billion emails, 99% accurate to the exact person you need to get in touch with.
