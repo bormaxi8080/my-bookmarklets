@@ -8,10 +8,42 @@ Browser bookmarklets and extensions that I use for search, save people profiles 
 
 ## Chrome/FireFox Browser extensions:
 
+[ContactOut](https://chrome.google.com/webstore/detail/find-anyones-email-contac/jjdemeiffadmmjhkbbpglgnlgeafomjo?hl=en)
+
+ContactOut has more than one billion emails, 99% accurate to the exact person you need to get in touch with.
+
+[Octo HR](https://chrome.google.com/webstore/detail/octohr/beiklbdjdmfkgchmiabjejdlpaoicbef?hl=en)
+
+OctoHR - GitHub profile pages for Recruiters. Helps recruiters to get more information about developers. Simplifies search for the…
+
+[impover](https://chrome.google.com/webstore/detail/improver/gnnlkejcihagecnbgfjcghecbaemeaho?hl=en)
+
+Improver — find personal emails from social networks. With just one click you'll reveal personal contacts of almost anyone you…
+
+[BOOL: Boolean Search Assistant](https://chrome.google.com/webstore/detail/bool-boolean-search-assis/cfpmoigmhcehoegokjllchipdiindpkc)
+
+BOOL takes the hassle out of building Boolean searches so you can find your targets faster.
+
+[BooleanAssistant](https://chrome.google.com/webstore/detail/booleanassistant/inncmkfiilbcdlbboahpadmggahoccjf?hl=en)
+
+BooleanAssistant is your best recruiting and sourcing assistant to generate boolean search string and find people's emails.
+
+[CoderStats link for Github Coders](https://chrome.google.com/webstore/detail/coderstats-link-for-githu/necogepejonacpphmlmcagmbjaogpbng?hl=en)
+
+The CoderStats link for GitHub Chrome extension displays a link to the CoderStats page for the currently displayed user or organization profile page on GitHub.
+
 [GitHub Isometric Contributions](https://chrome.google.com/webstore/detail/github-isometric-contribu/mjoedlfflcchnleknnceiplgaeoegien)
 
 Renders an isometric pixel view of GitHub contribution graphs.
 This extension allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.
+
+[Amazing Hiring](https://chrome.google.com/webstore/detail/amazinghiring/didkfdopbffjkpolefhpcjkohcpalicd/related?hl=en)
+
+AmazingHiring Chrome Extension is a professional sourcing tool that finds tech specialists’ social media profiles, contacts and information about the professional background . It finds candidates’ accounts across 50+ professional and social networks saving your time on screening and contacting candidates.
+
+[Huntflow Magic Button](https://chrome.google.com/webstore/detail/%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F-%D0%BA%D0%BD%D0%BE%D0%BF%D0%BA%D0%B0-%D1%85%D0%B0%D0%BD%D1%82%D1%84%D0%BB%D0%BE%D1%83/lhehchebjnjcaeklbpoanpogkggnhadk?hl=en)
+
+Magic Button allows recruiters to save candidates found on LinkedIn, Facebook, GitHub and other professional platforms and social media with just one click
 
 [Export History/Bookmarks to JSON/CSV*/XLS*](https://chrome.google.com/webstore/detail/export-historybookmarks-t/dcoegfodcnjofhjfbhegcgjgapeichlf)
 
