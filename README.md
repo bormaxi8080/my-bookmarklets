@@ -53,6 +53,12 @@ Manage your tabs, improve your browsing experience, and maintain your sanity whe
 
 Allows to export Chrome history and bookmarks into JSON file, which can be converted to CSV/XLS/XLSX file at http://www.json-xls.com
 
+** How to store your Chrome Browser bookmarks on your Mac?
+
+Go to /<user>/Library/Application Support/Google/Chrome/<your user profile>
+
+and copy Bookmarks file to store.
+
 [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)
 
 The most powerful screen recorder for Chrome. Capture, annotate, edit and more.
@@ -151,5 +157,9 @@ Show full LinkedIn user profile
 ** Read more about bookmarklets: [wiki](https://en.wikipedia.org/wiki/Bookmarklet)
 
 ** Bookmarklet combiner is [here](https://w-shadow.com/bookmarklet-combiner/)
+
+----
+
+How to store your Chrome Browser bookmarks?
 
 ----
