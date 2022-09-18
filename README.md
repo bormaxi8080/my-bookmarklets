@@ -45,6 +45,10 @@ View archived and cached versions of web pages on 10+ search engines, such as th
 
 This extension will automatically remove tracking elements from URLs to help protect your privacy when browse through the Internet.
 
+[Bookmark Sidebar](https://extensions.redeviation.com/)
+
+Adds a toggleable sidebar with all your bookmarks at the edge of your browser window.
+
 [TooManyTabs](https://chrome.google.com/webstore/detail/toomanytabs-for-chrome/amigcgbheognjmfkaieeeadojiibgbdp)
 
 Manage your tabs, improve your browsing experience, and maintain your sanity when you have many open tabs.
@@ -92,6 +96,10 @@ Export Instagram Followers/Following List to Excel.
 Export IG followers & followings in CSV Excel formats within a few clicks.
 
 ### Development:
+
+[View Rendered Source](https://chrome.google.com/webstore/detail/view-rendered-source/ejgngohbdedoabanmclafpkoogegdpob)
+
+A lightweight Chrome Extension that shows you how the browser has constructed (rendered) a page's original HTML into a functioning DOM, including modifications made by JavaScript.
 
 [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/gpmodmeblccallcadopbcoeoejepgpnb)
 
