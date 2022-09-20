@@ -45,6 +45,12 @@ View archived and cached versions of web pages on 10+ search engines, such as th
 
 This extension will automatically remove tracking elements from URLs to help protect your privacy when browse through the Internet.
 
+[start.me bookmarks manager](https://chrome.google.com/webstore/detail/new-tab-page-by-startme/cfmnkhhioonhiehehedmnjibmampjiab)
+
+Start.me turns your new Chrome tab into a beautiful personal toolbar.
+
+With start.me you will have instant access to all your bookmarks, news feeds, notes and web services. This will help you stay organized and save time online.
+
 [Bookmark Sidebar](https://extensions.redeviation.com/)
 
 Adds a toggleable sidebar with all your bookmarks at the edge of your browser window.
