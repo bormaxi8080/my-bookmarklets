@@ -18,6 +18,12 @@ ContactOut has more than one billion emails, 99% accurate to the exact person yo
 
 OctoHR - GitHub profile pages for Recruiters. Helps recruiters to get more information about developers. Simplifies search for the…
 
+[Find anyone's email - Contact Out](https://chrome.google.com/webstore/detail/find-anyones-email-contac/jjdemeiffadmmjhkbbpglgnlgeafomjo)
+
+The best & most accurate email finding tool, used by 76% of FORTUNE500 companies.
+
+Find the most accurate emails and phone numbers on any website, used by 1.4M users from 76% of Fortune 500 companies.
+
 [impover](https://chrome.google.com/webstore/detail/improver/gnnlkejcihagecnbgfjcghecbaemeaho?hl=en)
 
 Improver — find personal emails from social networks. With just one click you'll reveal personal contacts of almost anyone you…
@@ -38,8 +44,43 @@ Magic Button allows recruiters to save candidates found on LinkedIn, Facebook, G
 
 View archived and cached versions of web pages on 10+ search engines, such as the Wayback Machine, Archive.is and Google.
 
+[Wayback Machine](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak)
+
+The Official Wayback Machine Extension - by the Internet Archive.
+
+Welcome to the Official Internet Archive Wayback Machine Browser Extension! Go back in time to see how a website has changed through the history of the Web. Save websites, view missing 404 Not Found pages, or read archived books & papers.
 
 ### Tools:
+
+[User-Agent Switcher for Chrome](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
+
+Spoofs & Mimics User-Agent strings.
+
+Ever needed to quickly switch between user-agent strings on the fly?  Developing a site that needs to work on both mobile browsers and desktop browsers?  Sick of some archaic site blocking you because you're not using Netscape 4?
+
+The User-Agent Switcher for Chrome is the answer.  With this extension, you can quickly and easily switch between user-agent strings.  Also, you can set up specific URLs that you want to spoof every time. 
+
+[Autome](https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca)
+
+An extension for automating your browser by connecting blocks.
+
+From auto-fill forms, doing a repetitive task, taking a screenshot, to scraping data of the website, it's up to you what you want to do with this extension. And you also can schedule when the automation will execute.
+
+[IG Follower Export tool](https://chrome.google.com/webstore/detail/igfollow-follower-export/pkafmmmfdgphkffldekomeaofhgickcg)
+
+Follower Export Tool to Extract Instagram follower and following and export to CSV with one click.
+
+IGFollow automatically scrape user profile from Instagram followers and followings and export to CSV.
+
+[GitHub Isometric Contributions](https://chrome.google.com/webstore/detail/github-isometric-contribu/mjoedlfflcchnleknnceiplgaeoegien)
+
+Renders an isometric pixel view of GitHub contribution graphs.
+
+This extension allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.
+
+Headless Recorder
+
+A Chrome extension for recording browser interaction and generating Puppeteer & Playwright scripts
 
 [ClearURLs](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk)
 
